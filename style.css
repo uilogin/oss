@@ -55,7 +55,7 @@ body {
 .back-link {
   color: #333;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 300;
   font-size: 14px; /* Diperkecil */
   display: inline-flex;
   align-items: center;
@@ -90,7 +90,7 @@ body {
 
 h1 {
   font-size: 26px; /* Diperkecil */
-  font-weight: 600;
+  font-weight: 400;
   margin: 0 0 24px 0;
 }
 
@@ -145,7 +145,7 @@ form {
 
 label {
   display: block;
-  font-weight: 500;
+  font-weight: 400;
   margin-bottom: 8px;
   font-size: 13px; /* Diperkecil */
 }
@@ -185,7 +185,7 @@ label {
 
 input,
 input::placeholder {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat";
 }
 
 input:not([type="checkbox"]):not([type="radio"]):not([type="file"]):not(
@@ -196,7 +196,7 @@ input:not([type="checkbox"]):not([type="radio"]):not([type="file"]):not(
   border: 1px solid #d9d9d9;
   border-radius: 4px;
   font-size: 15px; /* Diperkecil */
-  font-weight: 500;
+  font-weight: 400;
   transition: border-color 0.3s;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -213,7 +213,7 @@ input:focus {
   margin-top: -10px;
   margin-bottom: 20px;
   font-size: 13px; /* Diperkecil */
-  font-weight: 500;
+  font-weight: 400;
   color: #1a73e8;
   text-decoration: none;
 }
@@ -321,7 +321,7 @@ input:focus {
   color: white;
   text-decoration: none;
   font-size: 14px; /* Diperkecil */
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .contact-icon,
