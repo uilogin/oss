@@ -118,7 +118,7 @@ h1 {
 .alert p {
   margin: 0;
   flex-grow: 1;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .close-alert {
