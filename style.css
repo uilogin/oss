@@ -147,7 +147,7 @@ label {
   display: block;
   font-weight: 400;
   margin-bottom: 8px;
-  font-size: 12px; /* Diperkecil */
+  font-size: 12px;
 }
 
 .input-wrapper {
@@ -166,8 +166,8 @@ label {
 
 .input-icon {
   left: 15px;
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   color: #888;
 }
 
@@ -179,8 +179,8 @@ label {
 
 .toggle-password img,
 .toggle-password svg {
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
 }
 
 input,
